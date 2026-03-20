@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://istiyak3110-boop.github.io/Istiyak-service/sitemap.xml
